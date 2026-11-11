@@ -12,15 +12,15 @@ A fully featured, external software modification for **Counter-Strike: Global Of
 
 ### 🎯 Aim & Ballistics Logic
 *Customizable Field of View, Smoothness, and Target Bone selection for precise control.*
-![Aim Settings](./images/aim.png)
+![Aim Settings]([./images/aim.png](https://github.com/kxndxx2/cs2-VAPOR-external/blob/main/images/aim.png.PNG?raw=true))
 
 ### 👁️ Visuals & ESP
 *Full control over the visual overlay including Skeleton, Health bars, and Bounding boxes for better game awareness.*
-![Visual Settings](./images/visuals.png)
+![Visual Settings]([./images/visuals.png](https://github.com/kxndxx2/cs2-VAPOR-external/blob/main/images/visuals.png.PNG?raw=true))
 
 ### 🏃 Movement & Misc
 *Advanced movement utilities including Bunny Hop and No Flash, along with Target Bot/Player toggles.*
-![Misc Settings](./images/misc.png)
+![Misc Settings]([./images/misc.png](https://github.com/kxndxx2/cs2-VAPOR-external/blob/main/images/misc.png.PNG?raw=true))
 
 ---
 
